@@ -1,7 +1,7 @@
 # Bienvenido al espacio de desarrollo de RayZeroDay
 Puede probar la aplicación en la siguiente dirección: https://rayzeroday.vercel.app). Una vez allí, en el escritorio podrá importar un conjunto de datos de ejemplo y podrá crear sus propias expresiones y tableros al instante y sin ningún requisito previo.
 
-Si tiene alguna duda o sugerencia puede dejarme un comentario y yo le leeré con mucho gusto. En este lugar se publicarán documentos sobre la aplicación, su uso e integración, y se llevará acabo un seguimiento de los posibles fallos de la aplicación y de las mejoras que se puedan implementar. 
+Si tiene alguna duda o sugerencia puede dejarme un comentario y yo le leeré con mucho gusto. En este lugar se publicarán notas y documentos sobre el funcionamiento de la aplicación, su uso y/o integración con terceros. También se llevará a cabo un seguimiento de los posibles fallos de la aplicación, y de las mejoras que se pudiesen implementar. 
 
 ![alt el loco](https://rayzeroday.vercel.app/img/deck/bota/300/0-the-fool.jpg)
 

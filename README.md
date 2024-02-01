@@ -5,7 +5,9 @@ Si tiene alguna duda o sugerencia puede dejarme un comentario y yo le leeré con
 
 ![alt el loco](https://rayzeroday.vercel.app/img/deck/bota/300/0-the-fool.jpg)
 
-Un saludo de parte de Jessy James. Cyberasesino en serie de bichos informáticos y artífice de RayZeroDay. Que no se sabe muy bien si ese cero es por el día cero o por un rayo que prende la paja en fuego que nunca se apaga, o por las dos de forma simultanea, o por muchas más cosas también. En definitiva, una cosa de locos y números que nunca se acaban, como el cero o el pi; o el ocho, que son dos ceros, y cuando uno se sale por la tangente acaba hecho un nueve.
+Un saludo de parte de Jessy James. Cyberasesino en serie de bichos informáticos y artífice de RayZeroDay. Que no se sabe muy bien si ese cero es por el día cero o por un rayo que enciende la paja en fuego que nunca se apaga, o por las dos de forma simultanea; o por muchas más cosas también. El tarot puede ser como un exploit benigno para la mente cuando se estudia e ilumina con propiedad. Al igual que ver la portada de tu disco favorito te transmite una emoción y ver la cara del presidente del gobierno te transmite otra, con las cartas del tarot pasa lo mismo cuando se saben usar para dirigir la suvconsciencia y como espejos que reflejan lo que desde dentro es dificil comprender. Por eso el tarot es llamado el espejo del alma, ya que proporciona una revelación unica y personal para cada cual.
+
+En definitiva. Una cosa de locos y números que nunca se acaban. Como por ejemplo el cero o el número pi; o el ocho, que aunque sean dos ceros, si se sale por la tangente acaba hecho un nueve. Más o menos como yo.
 
 
 

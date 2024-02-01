@@ -1,5 +1,5 @@
 # Bienvenido al espacio de desarrollo de RayZeroDay
-Puede probar la aplicación en la siguiente dirección: https://rayzeroday.vercel.app). Una vez allí, en el escritorio podrá importar un conjunto de datos de demostración y crear sus propias expresiones y tableros al instante y sin ningún requisito previo.
+Puede probar la aplicación en la siguiente dirección: https://rayzeroday.vercel.app). Una vez allí, en el escritorio podrá importar un conjunto de datos de prueba y crear sus propias expresiones y tableros al instante y sin ningún requisito previo.
 
 Si tiene alguna duda o sugerencia puede dejarme un comentario y yo le leeré con mucho gusto. En este lugar se publicarán documentos sobre la aplicación, su uso e integración, y se llevará acabo un seguimiento de los posibles fallos de la aplicación y de las mejoras que se puedan implementar. 
 

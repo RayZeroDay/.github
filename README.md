@@ -1,4 +1,4 @@
-# Bienvenido al espacio de desarrollo de RayzeroDay
+# Bienvenido al espacio de desarrollo de RayZeroDay
 Si tiene alguna duda o sugerencia puede dejarme un comentario y yo le leeré con mucho gusto. En este lugar se publicarán documentos sobre la aplicación, su uso e integración, y se llevará acabo un seguimiento de los posibles fallos de la aplicación y de las mejoras que se puedan implementar. 
 
 ![alt el loco](https://rayzeroday.vercel.app/img/deck/bota/300/0-the-fool.jpg)
